@@ -1,0 +1,11 @@
+name: clase_PIV
+channels:
+- defaults
+- conda-forge
+dependencies:
+- python=3.12
+- matplotlib
+- opencv
+- ipykernel
+- numpy
+- tensorflow
