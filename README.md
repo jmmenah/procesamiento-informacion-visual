@@ -1,4 +1,4 @@
-# Prácticas de Visión por Computadora (PIV)
+# Prácticas de Procesamiento de Información Visual (PIV)
 
 Este repositorio contiene una serie de prácticas relacionadas con visión por computadora, procesamiento de imágenes y aprendizaje automático. Cada práctica está organizada en su propia carpeta e incluye un cuaderno Jupyter (`.ipynb`) con ejercicios y ejemplos prácticos.
 
